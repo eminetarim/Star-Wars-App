@@ -1,8 +1,30 @@
-# React + Vite
+# Star Wars App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this application you can list starships and examine the features of a particular starship.
 
-Currently, two official plugins are available:
+## Cloning the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. To run
+
+```bash
+git clone https://github.com/eminetarim/Star-Wars-App.git
+```
+2. 
+
+   ```bash
+   cd "Star Wars App"
+   npm install
+   npm run dev
+   ```
+
+## Requirements
+
+You can use this API if you wish
+
+```bash
+https://swapi.dev/
+```
+
+## Technologies Used
+
+- React, Vite
